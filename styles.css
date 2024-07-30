@@ -1,0 +1,42 @@
+.kielwithcoco, .cocoinherbed, .cocovisitfuneral, .cocohappy, .coco, .hairycoco {
+    height: 200px;
+    width: 200px;
+    margin: 20px 13px; 
+    padding: 10px;
+        }
+h1 {
+    color:yellow
+}
+body {
+    background-color:tomato;
+     }
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      }
+
+form {
+    text-align: center;
+    margin-top: 30px;
+     }     
+
+.formtext {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+h2 {text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+   }
+
+.photodetails {
+    display: block;
+    padding: 2px 5px;
+}
+
+fieldset {
+    display: inline;
+}
+
